@@ -98,3 +98,11 @@ html, body {
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
+
+.result{
+  font-size: 25px;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
